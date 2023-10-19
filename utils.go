@@ -1,4 +1,3 @@
-// version : V1
 package utils
 
 import (
